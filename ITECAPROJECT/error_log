@@ -1,0 +1,394 @@
+[28-May-2024 16:59:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:00:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:01:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:01:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:01:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:02:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:02:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:03:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 97
+[28-May-2024 17:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:05:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:06:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/signup.php on line 103
+[28-May-2024 17:06:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 121
+[28-May-2024 17:12:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:13:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:13:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:13:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:13:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:14:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:49) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 17:14:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:14:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 17:14:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:14:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:14:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 97
+[28-May-2024 17:14:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:14:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 17:14:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[28-May-2024 17:14:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[28-May-2024 17:21:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:21:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:21:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 17:21:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/faq.php:4) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 17:21:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:49) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 17:21:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 17:22:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 17:23:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 17:23:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 18:44:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:44:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:44:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:44:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 18:44:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:49) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 18:44:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:51:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:51:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:52:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:52:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:52:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 18:52:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:30:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:30:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:31:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:33:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:34:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:34:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:34:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:34:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:34:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:34:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:35:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:36:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:36:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:36:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:36:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:36:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:37:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:37:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 19:41:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:32:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/signup.php on line 103
+[28-May-2024 23:32:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 121
+[28-May-2024 23:33:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 23:34:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:34:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 23:34:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 23:34:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 23:34:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:35:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:37:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:37:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:37:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:37:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/checkout.php:69) in /home/tinywqgs/public_html/header.php on line 53
+[28-May-2024 23:38:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[28-May-2024 23:38:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:49) in /home/tinywqgs/public_html/header.php on line 26
+[28-May-2024 23:38:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[28-May-2024 23:38:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/account.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 05:21:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/account.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 05:22:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 05:22:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[29-May-2024 05:22:24 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 648
+[29-May-2024 05:22:36 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:39 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:42 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:47 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:49 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:53 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:56 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:22:59 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:22:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:23:14 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 05:23:18 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/tinywqgs/public_html/admin.php on line 568
+[29-May-2024 05:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tinywqgs/public_html/admin.php:569
+Stack trace:
+#0 {main}
+  thrown in /home/tinywqgs/public_html/admin.php on line 569
+[29-May-2024 08:55:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 08:55:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 08:55:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 112
+[29-May-2024 08:56:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 113
+[29-May-2024 08:59:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 08:59:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:4) in /home/tinywqgs/public_html/login.php on line 113
+[29-May-2024 09:05:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:06:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:06:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:06:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:06:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:06:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:07:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:07:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:08:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:08:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:08:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:08:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:09:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:09:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:09:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:11:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:11:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:1) in /home/tinywqgs/public_html/login.php on line 128
+[29-May-2024 09:11:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:11:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:31:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 09:32:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:35:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:37:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:38:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/signup.php on line 103
+[29-May-2024 09:38:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 119
+[29-May-2024 09:39:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/signup.php on line 103
+[29-May-2024 09:39:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 119
+[29-May-2024 09:39:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 97
+[29-May-2024 09:39:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/signup.php on line 103
+[29-May-2024 09:39:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 119
+[29-May-2024 09:42:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 124
+[29-May-2024 09:42:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 124
+[29-May-2024 09:44:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 124
+[29-May-2024 09:44:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 124
+[29-May-2024 09:48:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 124
+[29-May-2024 09:51:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 128
+[29-May-2024 09:52:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 128
+[29-May-2024 09:55:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 129
+[29-May-2024 09:55:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:1) in /home/tinywqgs/public_html/signup.php on line 129
+[29-May-2024 09:57:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 09:57:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:4) in /home/tinywqgs/public_html/signup.php on line 132
+[29-May-2024 09:57:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:4) in /home/tinywqgs/public_html/signup.php on line 102
+[29-May-2024 09:58:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/signup.php:4) in /home/tinywqgs/public_html/signup.php on line 132
+[29-May-2024 10:00:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 10:00:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 10:00:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:49) in /home/tinywqgs/public_html/header.php on line 53
+[29-May-2024 10:00:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 53
+[29-May-2024 10:00:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 10:00:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 10:01:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 10:01:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 10:01:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 10:01:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:49) in /home/tinywqgs/public_html/header.php on line 53
+[29-May-2024 11:12:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 11:12:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 11:12:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 11:12:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 11:12:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 11:12:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 11:12:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/faq.php:4) in /home/tinywqgs/public_html/header.php on line 26
+[29-May-2024 11:13:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:21:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:21:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:32:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:32:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:33:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:33:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:35:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:58:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 15:58:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:22:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:22:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:23:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 25
+[29-May-2024 16:23:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 16:26:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:26:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:26:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:1) in /home/tinywqgs/public_html/login.php on line 119
+[29-May-2024 16:28:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:28:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:1) in /home/tinywqgs/public_html/login.php on line 116
+[29-May-2024 16:30:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 106
+[29-May-2024 16:30:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:30:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:1) in /home/tinywqgs/public_html/login.php on line 116
+[29-May-2024 16:31:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:31:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:1) in /home/tinywqgs/public_html/login.php on line 116
+[29-May-2024 16:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 120
+[29-May-2024 16:34:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 119
+[29-May-2024 16:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 116
+[29-May-2024 16:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 119
+[29-May-2024 16:37:03 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/login.php on line 116
+[29-May-2024 16:37:38 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/login.php on line 116
+[29-May-2024 16:37:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 119
+[29-May-2024 16:38:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 119
+[29-May-2024 16:38:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 119
+[29-May-2024 16:39:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 16:40:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 16:40:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 16:41:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:5) in /home/tinywqgs/public_html/login.php on line 120
+[29-May-2024 16:43:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:34) in /home/tinywqgs/public_html/login.php on line 40
+[29-May-2024 16:43:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:34) in /home/tinywqgs/public_html/login.php on line 40
+[29-May-2024 16:46:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/login.php:34) in /home/tinywqgs/public_html/login.php on line 44
+[29-May-2024 16:46:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 16:46:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tinywqgs/public_html/session.php on line 2
+[29-May-2024 17:03:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:45) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:08:29 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:08:31 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:08:35 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:09:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:45) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:12:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:42) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:13:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:42) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 17:42:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:42) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 19:38:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:42) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 19:48:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/products.php:45) in /home/tinywqgs/public_html/products.php on line 46
+[29-May-2024 19:59:46 UTC] PHP Notice:  Undefined index: cart in /home/tinywqgs/public_html/checkout.php on line 29
+[29-May-2024 19:59:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tinywqgs/public_html/checkout.php on line 29
+[29-May-2024 19:59:46 UTC] PHP Notice:  Undefined index: cart in /home/tinywqgs/public_html/checkout.php on line 52
+[29-May-2024 19:59:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tinywqgs/public_html/checkout.php on line 52
+[29-May-2024 20:00:38 UTC] PHP Notice:  Undefined index: cart in /home/tinywqgs/public_html/checkout.php on line 29
+[29-May-2024 20:00:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tinywqgs/public_html/checkout.php on line 29
+[29-May-2024 20:00:38 UTC] PHP Notice:  Undefined index: cart in /home/tinywqgs/public_html/checkout.php on line 52
+[29-May-2024 20:00:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tinywqgs/public_html/checkout.php on line 52
+[29-May-2024 20:05:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/checkout.php:71) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 20:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 20:08:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 24
+[29-May-2024 20:08:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 48
+[29-May-2024 20:08:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 48
+[29-May-2024 20:13:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 49
+[29-May-2024 20:14:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 48
+[29-May-2024 20:14:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 25
+[29-May-2024 20:15:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 51
+[29-May-2024 20:19:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 36
+[29-May-2024 20:20:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 36
+[29-May-2024 20:20:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 10
+[29-May-2024 20:20:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 10
+[29-May-2024 20:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 10
+[29-May-2024 20:26:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 36
+[29-May-2024 20:28:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 35
+[29-May-2024 20:29:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 9
+[29-May-2024 20:30:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 43
+[29-May-2024 20:32:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 53
+[29-May-2024 20:48:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 9
+[29-May-2024 20:48:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 9
+[29-May-2024 22:29:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 49
+[29-May-2024 22:32:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 48
+[29-May-2024 22:32:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 48
+[29-May-2024 22:32:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/index.php:4) in /home/tinywqgs/public_html/header.php on line 48
+[29-May-2024 22:33:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:43) in /home/tinywqgs/public_html/header.php on line 9
+[29-May-2024 22:34:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40
+[29-May-2024 22:34:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/header.php on line 9
+[29-May-2024 22:34:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40
+[29-May-2024 23:13:33 UTC] PHP Warning:  Use of undefined constant cellno - assumed 'cellno' (this will throw an Error in a future version of PHP) in /home/tinywqgs/public_html/checkout.php on line 30
+[29-May-2024 23:13:33 UTC] PHP Warning:  Use of undefined constant coldev - assumed 'coldev' (this will throw an Error in a future version of PHP) in /home/tinywqgs/public_html/checkout.php on line 31
+[29-May-2024 23:13:33 UTC] PHP Notice:  Array to string conversion in /home/tinywqgs/public_html/checkout.php on line 106
+[29-May-2024 23:15:43 UTC] PHP Warning:  Use of undefined constant cellno - assumed 'cellno' (this will throw an Error in a future version of PHP) in /home/tinywqgs/public_html/checkout.php on line 30
+[29-May-2024 23:15:43 UTC] PHP Warning:  Use of undefined constant coldev - assumed 'coldev' (this will throw an Error in a future version of PHP) in /home/tinywqgs/public_html/checkout.php on line 31
+[29-May-2024 23:15:43 UTC] PHP Notice:  Array to string conversion in /home/tinywqgs/public_html/checkout.php on line 106
+[29-May-2024 23:16:11 UTC] PHP Notice:  Array to string conversion in /home/tinywqgs/public_html/checkout.php on line 106
+[29-May-2024 23:16:55 UTC] PHP Warning:  Use of undefined constant cellno - assumed 'cellno' (this will throw an Error in a future version of PHP) in /home/tinywqgs/public_html/checkout.php on line 30
+[29-May-2024 23:16:55 UTC] PHP Warning:  Use of undefined constant coldev - assumed 'coldev' (this will throw an Error in a future version of PHP) in /home/tinywqgs/public_html/checkout.php on line 31
+[29-May-2024 23:16:55 UTC] PHP Notice:  Array to string conversion in /home/tinywqgs/public_html/checkout.php on line 106
+[30-May-2024 05:08:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tinywqgs/public_html/account.php on line 121
+[30-May-2024 21:53:09 UTC] PHP Warning:  unlink(uploads/uploads/La Sportiva Solution.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:54:48 UTC] PHP Warning:  unlink(uploads/uploads/La Sportiva Skwama.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:55:39 UTC] PHP Warning:  unlink(uploads/uploads/La Sportiva Theory.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:56:12 UTC] PHP Warning:  unlink(uploads/uploads/la-sportiva-solution-compclimbing-shoes.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:56:51 UTC] PHP Warning:  unlink(uploads/uploads/La Sportiva Miura.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:57:23 UTC] PHP Warning:  unlink(uploads/uploads/Five-Ten-Team.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:57:55 UTC] PHP Warning:  unlink(uploads/uploads/MadRockShark.webp): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:58:23 UTC] PHP Warning:  unlink(uploads/uploads/ocun_pearl.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 21:59:15 UTC] PHP Warning:  unlink(uploads/uploads/tenaya_oasi.webp): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:00:04 UTC] PHP Warning:  unlink(uploads/uploads/madsharkdonehvblue.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:00:17 UTC] PHP Warning:  unlink(uploads/uploads/madsharkdronehvblack.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:00:38 UTC] PHP Warning:  unlink(uploads/uploads/madsharkrhino.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:01:12 UTC] PHP Warning:  unlink(uploads/uploads/evolvkira.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:02:15 UTC] PHP Warning:  unlink(uploads/uploads/scarpa_drago.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:02:52 UTC] PHP Warning:  unlink(uploads/uploads/IMG_6075.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:03:34 UTC] PHP Warning:  unlink(uploads/uploads/IMG_7601.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:03:44 UTC] PHP Warning:  unlink(uploads/uploads/IMG_7601.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:05:04 UTC] PHP Warning:  unlink(uploads/uploads/IMG_6683.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:06:04 UTC] PHP Warning:  unlink(uploads/uploads/scarpa_vaporv.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:06:19 UTC] PHP Warning:  unlink(uploads/uploads/scarpa_instictvs.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:07:25 UTC] PHP Warning:  unlink(uploads/uploads/Ocun Ozone 2022.jpg): No such file or directory in /home/tinywqgs/public_html/admin.php on line 125
+[30-May-2024 22:17:19 UTC] PHP Parse error:  syntax error, unexpected 'Hero' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/checkout.php on line 104
+[30-May-2024 22:17:29 UTC] PHP Parse error:  syntax error, unexpected 'Hero' (T_STRING), expecting ';' or ',' in /home/tinywqgs/public_html/checkout.php on line 104
+[31-May-2024 11:15:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:08:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:41:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:42:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[03-Jun-2024 20:42:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:26:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:27:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:27:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:27:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:27:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:27:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:28:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:28:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:28:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:28:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:28:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[04-Jun-2024 08:30:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[06-Jun-2024 10:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[06-Jun-2024 18:58:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40
+[06-Jun-2024 20:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40
+[06-Jun-2024 21:12:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/tinywqgs/public_html/dbconn.php on line 8
+[14-Jun-2024 19:17:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40
+[17-Jun-2024 17:09:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40
+[17-Jun-2024 21:48:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tinywqgs/public_html/admin.php:39) in /home/tinywqgs/public_html/admin.php on line 40

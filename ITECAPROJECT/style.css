@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Teko:wght@300..700&display=swap');
+
+* {
+        font-family: "Poetsen One", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+}
+
+body{
+    background: rgb(11,207,112);
+background: radial-gradient(circle, rgba(11,207,112,1) 15%, rgba(20,138,190,1) 50%, rgba(129,219,237,1) 85%);
+}
+
+#album-container{
+    background-color: #ffffff;
+    border-radius: 15px; 
+    margin-right: 20px; 
+    margin-left: 20px;       
+}
+
+#header{
+background-color: #ffffff;
+border-radius: 15px;
+}
+
+#Hero{
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+#Split{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+.prod{
+    padding: 5px;
+    border-radius: 15px;
+    height: 10rem;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8
+}
+
+.profile-button {
+    background: rgb(99, 39, 120);
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8
+}
+
+#icons{
+    display: flex;
+    justify-content:space-evenly;
+}
